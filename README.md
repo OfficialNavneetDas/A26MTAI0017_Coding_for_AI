@@ -11,8 +11,8 @@ Welcome to my coursework repository for **Coding for AI**! This repository track
 | Week | Program | Purpose | Status |
 | :--: | :-----: | :-----: | :-----:|
 | **Week 1** | Temporal Profile Analyzer | Computes an AI Era Readiness Score from user metadata | ✅ Completed |
-| **Week 2** | Building the Weather-Bot | Gives simple life style advice based on temperature and rain | 🛠️ In Progress |
-| **Week 3** | | | ⏳ Pending |
+| **Week 2** | Building the Weather-Bot | Gives simple life style advice based on temperature and rain | ✅ Completed |
+| **Week 3** | | | 🛠️ In Progress |
 | **Week 4** | | | ⏳ Pending |
 | **Week 5** | | | ⏳ Pending |
 
