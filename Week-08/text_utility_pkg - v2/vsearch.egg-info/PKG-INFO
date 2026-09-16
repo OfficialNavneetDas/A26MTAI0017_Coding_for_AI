@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: vsearch
+Version: 1.0
+Summary: Text search tools for AI preprocessing
+Home-page: localhost
+Author: Navneet das Mtech AI
+Author-email: A26MTAI0017@bennett.edu.in
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
