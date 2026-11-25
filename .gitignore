@@ -1,3 +1,6 @@
 .vscode
 Question*
 *.7z
+*.ipynb
+*.rar
+*.json
